@@ -1,7 +1,7 @@
 👋 Hi, I’m @Inditxtlab
 💡 Passionate about web development and continuous learning.
 
-🚀 I’m currently diving into Front-End Development with a focus on HTML, CSS, and JavaScript.
+🚀 I’m currently diving into fullstack Development with a focus on HTML, CSS, and JavaScript.
 🎯 My goal is to build clean, responsive, and user-friendly interfaces.
 
 🔍 What I’m working on:
